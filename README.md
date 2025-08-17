@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Prakhar Bhatt
 
-<!--
-**prakharbhattreal/prakharbhattreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & Web Dev** • Next.js • Node • MongoDB  
+I build practical tools and fast web apps with help of AI.
 
-Here are some ideas to get you started:
+## 🛠️ Tech
+- Languages: JavaScript (Node), TypeScript, Python
+- Web: Next.js, React, Tailwind CSS
+- DB: MongoDB
+- Infra: NGINX, PM2, DigitalOcean
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+> “Artificial Intelligence, Real Impact.”
