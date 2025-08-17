@@ -1,15 +1,30 @@
-# Hi, I'm Prakhar Bhatt
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
 
-**AI & Web Dev** • Next.js • Node • MongoDB  
-I build practical tools and fast web apps with help of AI.
+<!-- Social connections -->
+<div align="center">
 
-[Snake animation](https://github.com/prakharbhattreal/prakharbhattreal/blob/output/snake.svg)
+## 🌐 Connect with Me 🍬
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prakharbhattreal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakharbhattreal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/elonmusk)
 
-## 🛠️ Tech
-- Languages: JavaScript (Node), TypeScript, Python
-- Web: Next.js, React, Tailwind CSS
-- DB: MongoDB
-- Infra: NGINX, PM2, DigitalOcean
+</div>
 
----
-> “Artificial Intelligence, Real Impact.”
+
+
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/prakharbhattreal/prakharbhattreal/blob/output/github-snake-dark.svg)
+</div>
+
+
+
+<!-- Visit Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=prakharbhattreal&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
