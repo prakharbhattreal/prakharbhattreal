@@ -1,10 +1,11 @@
-<!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakharbhattreal&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakharbhattreal&theme=aura&hide_border=true" width="50%" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharbhattreal&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <h1 style="font-family: 'Arial', sans-serif; color: #333; font-size: 2.5em; margin-bottom: 10px;">
+    Hello, I'm <br>Prakhar Bhatt
+  </h1>
+  <p style="font-family: 'Arial', sans-serif; color: #777; font-size: 1em;">
+    Explore my <a href="https://github.com/prakharbhattreal?tab=repositories" style="color: #0366d6; text-decoration: none;">projects</a>!
+  </p>
 </div>
-
 <!-- Social connections -->
 <div align="center">
 
