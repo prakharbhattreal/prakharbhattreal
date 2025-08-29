@@ -1,16 +1,17 @@
-<div align="center">
-  <h1 style="font-family: 'Arial', sans-serif; color: #333; font-size: 2.5em; margin-bottom: 10px;">
-    Hello, I'm <br>Prakhar Bhatt
-  </h1>
-  <p style="font-family: 'Arial', sans-serif; color: #777; font-size: 1em;">
-    Explore my <a href="https://github.com/prakharbhattreal?tab=repositories" style="color: #0366d6; text-decoration: none;">projects</a>!
-  </p>
+<div align="center" style="background:#111;color:#f0f;
+padding:30px;font-family:monospace;text-shadow:2px 2px #0ff;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=007ACC&center=true&vCenter=true&lines=Hey!+I'm+Prakhar+Bhatt;" /></br>
+  <a href="https://github.com/prakharbhattreal?tab=repositories" 
+     style="color:#0ff;text-decoration:none;font-weight:bold;">
+     [ EXPLORE PROJECTS ]
+  </a>
 </div>
+
 <!-- Social connections -->
 <div align="center">
 
 ## 🌐 Connect with Me 🍬
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prakharbhattreal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakharbhattreal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/elonmusk)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prakharbhattreal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakharbhattreal)
 
 </div>
 
