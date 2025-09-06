@@ -18,15 +18,15 @@ padding:30px;font-family:monospace;text-shadow:2px 2px #0ff;">
 
 
 <!-- Snake Animation -->
-<!--<div align="center">
+<div align="center">
     
   ![snake gif](https://github.com/prakharbhattreal/prakharbhattreal/blob/output/github-snake-dark.svg)
-</div>-->
+</div>
 
 
 
 <!-- Visit Counter -->
-<!-- <div align="center">
+ <div align="center">
   
   [![](https://visitcount.itsvg.in/api?id=prakharbhattreal&icon=10&color=6)](https://visitcount.itsvg.in)
-</div> -->
+</div> 
