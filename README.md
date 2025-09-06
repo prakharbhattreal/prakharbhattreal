@@ -1,11 +1,11 @@
-<!--<div align="center" style="background:#111;color:#f0f;
+<div align="center" style="background:#111;color:#f0f;
 padding:30px;font-family:monospace;text-shadow:2px 2px #0ff;">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=007ACC&center=true&vCenter=true&lines=Hey!+I'm+Prakhar+Bhatt;" /></br>
-  <a href="https://github.com/prakharbhattreal?tab=repositories" 
+</div>
+<!--   <a href="https://github.com/prakharbhattreal?tab=repositories" 
      style="color:#0ff;text-decoration:none;font-weight:bold;">
      [ EXPLORE PROJECTS ]
-  </a>
-</div>-->
+  </a> -->
 
 <!-- Social connections -->
 <!--<div align="center">
